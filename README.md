@@ -14,7 +14,7 @@ The basic principle of operation is to count the number of input signal cycles a
 
 <div align="center"><h6>Circuit simulation for n = 2 and n = 3 respectively</h6></div>
 
-##Files Description
+## File Description
 
 <div>frequencydivider.v : Contains the design implementation of the circuit.</div>
 testbench.v : Contains the testbench for the implemented design.
