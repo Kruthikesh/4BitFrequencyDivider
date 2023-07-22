@@ -13,7 +13,8 @@ The basic principle of operation is to count the number of input signal cycles a
 ![Screenshot 2023-07-22 202708](https://github.com/Kruthikesh/4BitFrequencyDivider/assets/98465500/9c91acc5-371c-40a2-bfa2-d9ebe4479fee)
 
 <div align="center"><h6>Circuit simulation for n = 2 and n = 3 respectively</h6></div>
-## Files Description
+
+##Files Description
 
 <div>frequencydivider.v : Contains the design implementation of the circuit.</div>
 testbench.v : Contains the testbench for the implemented design.
