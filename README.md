@@ -9,8 +9,9 @@ The Frequency Divider Circuit takes an input signal with a certain frequency and
 
 The basic principle of operation is to count the number of input signal cycles and generate an output pulse after a specific number of cycles as determined by the 4-bit number. For instance, if the 4-bit number is 'n', the output pulse will occur after every 'n' cycles of the input signal, effectively reducing the output frequency by a factor of 'n'.
 
-![Screenshot 2023-07-22 202741](https://github.com/Kruthikesh/4BitFrequencyDivider/assets/98465500/7a42eedd-9ed7-4659-ad54-d9601eaae40b)
-![Screenshot 2023-07-22 202708](https://github.com/Kruthikesh/4BitFrequencyDivider/assets/98465500/9c91acc5-371c-40a2-bfa2-d9ebe4479fee)
+![WhatsApp Image 2023-08-03 at 20 56 30](https://github.com/Kruthikesh/4BitFrequencyDivider/assets/98465500/7ba41298-ae80-4a22-9f2b-6199758e4b64)
+![WhatsApp Image 2023-08-03 at 20 56 47](https://github.com/Kruthikesh/4BitFrequencyDivider/assets/98465500/23d3b56a-3e63-451d-bddc-b5b3d3373688)
+
 
 <div align="center"><h6>Circuit simulation for n = 2 and n = 3 respectively</h6></div>
 
